@@ -1,0 +1,9 @@
+* clawk
+
+CLAWK is an AWK implementation embedded into Common Lisp, by Michael Parker. This version contains some patches to make it compile again.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/sharplispers/clawk.git |
+| commit  | 3a91634                                       |
+| systems | clawk                                         |
+|---------+-----------------------------------------------|
